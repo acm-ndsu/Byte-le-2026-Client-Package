@@ -4,15 +4,6 @@ pygame~=2.6.1
 numpy~=2.2.6
 opencv-python~=4.12.0.88
 
-# Documentation Packages
-sphinx~=9.1.0
-sphinx-copybutton~=0.5.2
-sphinx-tabs~=3.4.7
-furo~=2025.12.19
-sphinx-autobuild~=2025.8.25
-furo~=2025.12.19
-shibuya~=2026.1.9
-
 # Server Packages
 psycopg2-binary~=2.9.11
 SQLAlchemy~=2.0.45
